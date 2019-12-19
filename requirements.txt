@@ -49,7 +49,7 @@ docutils==0.12
 emcee==2.2.1
 entrypoints==0.2.2
 fasteners==0.14.1
-Flask==0.11.1
+Flask==1.0
 Flask-Cors==2.1.2
 formlayout==1.1.0
 future==0.18.2
