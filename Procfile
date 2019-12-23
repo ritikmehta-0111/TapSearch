@@ -1,0 +1,1 @@
+web: gunicorn Tapsearch_flask:app
